@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Escola Javali Cansado</title>
+
+<link rel="stylesheet" href="style.css">
+
+</head>
+
+<body>
+
+<main class="container">
+
+    <h1>ESCOLA APROVADOS </h1>
+
+    <p>Calculadora de média escolar</p>
+
+    <div class="formulario">
+
+        <label for="nota1">Primeira nota:</label>
+        <input type="number" id="nota1" min="0" max="10" step="any"
+            placeholder="Digite a primeira nota">
+
+        <label for="nota2">Segunda nota:</label>
+        <input type="number" id="nota2" min="0" max="10" step="any"
+            placeholder="Digite a segunda nota">
+
+        <button onclick="calcularMedia()">Calcular média</button>
+
+    </div>
+
+    <div id="resultado"></div>
+
+</main>
+
+<script src="script.js"></script>
+
+</body>
+
+</html>
+
