@@ -1,6 +1,8 @@
 ## 🌐 Acesse o projeto
 
-[👉 Calculadora de Média Escolar](https://calculomedia-escolar.netlify.app/)
+<a href="https://calculomedia-escolar.netlify.app/" target="_blank" rel="noopener noreferrer">
+  👉 Calculadora de Média Escolar
+</a>
 
 # 🎓 Calculadora de Média Escolar
 
