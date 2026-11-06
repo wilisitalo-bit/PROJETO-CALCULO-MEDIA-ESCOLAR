@@ -1,5 +1,3 @@
-### 📚 Calculadora de Média Escolar
-
 ## 🌐 Acesse o projeto
 
 [![Acessar Projeto](https://img.shields.io/badge/🎓_Acessar_Média_Escolar-4CAF50?style=for-the-badge)](https://calculomedia-escolar.netlify.app/)
